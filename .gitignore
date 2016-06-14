@@ -14,7 +14,7 @@ src_managed/
 project/boot/
 project/plugins/project/
 
-jar/
+out/
 
 # IntelliJ specific
 *.iml

@@ -13,15 +13,14 @@ lib_managed/
 src_managed/
 project/boot/
 project/plugins/project/
-
-out/
+src/main/java/
 
 # IntelliJ specific
 *.iml
 *.ipr
 *.iws
 .idea
-out
+out/
 
 # Mac OSX
 .DS_Store

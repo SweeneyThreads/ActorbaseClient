@@ -41,7 +41,7 @@ object Client {
 
   def main(args: Array[String]): Unit = {
     Welcome.printWelcomeMessage()
-    tryFirstLoginOnLocalHost()
+    //tryFirstLoginOnLocalHost()
     // Readline loop
     print("> ")
     for (ln <- io.Source.stdin.getLines) {
